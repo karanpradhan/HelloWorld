@@ -1,13 +1,13 @@
 
 public class Karan {
 
-	public static void main(String arg[])
+	public static void main()
 	{
 		
 		
-		System.out.println("Hellooo...");
-		System.out.println("madar chod");
-		ckjndkjwck;
+		System.out.println("Hello");
+		
+		
 	}
 	
 }
