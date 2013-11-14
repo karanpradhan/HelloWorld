@@ -6,7 +6,7 @@ public class Karan {
 		
 		
 		System.out.println("Hellooo...");
-		Sysytem.out.println("madar chod");
+		System.out.println("madar chod");
 	}
 	
 }
